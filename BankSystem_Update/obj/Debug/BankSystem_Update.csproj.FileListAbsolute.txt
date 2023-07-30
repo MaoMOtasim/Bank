@@ -1,0 +1,8 @@
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\bin\Debug\BankSystem_Update.exe.config
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\bin\Debug\BankSystem_Update.exe
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\bin\Debug\BankSystem_Update.pdb
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\obj\Debug\BankSystem_Update.csproj.AssemblyReference.cache
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\obj\Debug\BankSystem_Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\obj\Debug\BankSystem_Update.csproj.CoreCompileInputs.cache
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\obj\Debug\BankSystem_Update.exe
+C:\Users\alson\source\Workspaces\Workspace\BankSystem_Update\BankSystem_Update\obj\Debug\BankSystem_Update.pdb
